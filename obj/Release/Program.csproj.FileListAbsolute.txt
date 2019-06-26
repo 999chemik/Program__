@@ -1,0 +1,5 @@
+c:\Users\Komp123\Documents\Visual Studio 2015\Projects\Program\Program\bin\Release\Program.exe.config
+c:\Users\Komp123\Documents\Visual Studio 2015\Projects\Program\Program\bin\Release\Program.exe
+c:\Users\Komp123\Documents\Visual Studio 2015\Projects\Program\Program\bin\Release\Program.pdb
+c:\Users\Komp123\Documents\Visual Studio 2015\Projects\Program\Program\obj\Release\Program.exe
+c:\Users\Komp123\Documents\Visual Studio 2015\Projects\Program\Program\obj\Release\Program.pdb

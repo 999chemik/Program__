@@ -1,0 +1,9 @@
+c:\users\komp123\documents\visual studio 2015\Projects\Program\Program\bin\Debug\Program.exe.config
+c:\users\komp123\documents\visual studio 2015\Projects\Program\Program\bin\Debug\Program.exe
+c:\users\komp123\documents\visual studio 2015\Projects\Program\Program\bin\Debug\Program.pdb
+c:\users\komp123\documents\visual studio 2015\Projects\Program\Program\obj\Debug\Program.exe
+c:\users\komp123\documents\visual studio 2015\Projects\Program\Program\obj\Debug\Program.pdb
+C:\Users\Komp123\Documents\Visual Studio 2015\Projects\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\Komp123\GitHubRepo\Program\bin\Debug\Program.exe.config
+C:\Users\Komp123\GitHubRepo\Program\obj\Debug\Program.exe
+C:\Users\Komp123\GitHubRepo\Program\obj\Debug\Program.pdb
